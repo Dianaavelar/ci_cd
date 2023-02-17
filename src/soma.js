@@ -1,4 +1,4 @@
-function soma (a, b, ) {
-return a+b;
+function soma (a, b, c ) {
+return a+b+c;
 }
 module.exports = soma;
